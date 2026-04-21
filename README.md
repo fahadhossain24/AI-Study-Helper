@@ -101,53 +101,53 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ▶️ Run the App
 streamlit run app.py
+```
+
+## 🧪 Usage
+  - Upload up to 3 images of notes
+  - Select quiz difficulty
+  - Select response language
+  - Click the button
+
+## 🎯 Output:
+  📘 Exam-ready structured notes
+  🔊 Audio version
+  ❓ MCQ quiz with answers
 
 
-🧪 Usage
-Upload up to 3 images of notes
-Select quiz difficulty
-Select response language
-Click the button
+## 📌 Use Cases
+  📖 Exam revision from handwritten notes
+  🧠 Quick study summaries from any book page or notes
+  🎯 Self-assessment using MCQs by defining deficulties
+  🎧 Learning through audio
 
-🎯 Output:
-📘 Exam-ready structured notes
-🔊 Audio version
-❓ MCQ quiz with answers
+## ⚠️ Limitations
+  Maximum 3 images per session
+  Requires internet connection
+  Gemini responses may vary slightly
 
-
-📌 Use Cases
-📖 Exam revision from handwritten notes
-🧠 Quick study summaries from any book page or notes
-🎯 Self-assessment using MCQs by defining deficulties
-🎧 Learning through audio
-
-⚠️ Limitations
-Maximum 3 images per session
-Requires internet connection
-Gemini responses may vary slightly
-JSON quiz output may occasionally need fallback handling
-
-🔮 Future Improvements
-🔐 User authentication system
-💾 Save notes & quiz history
-📊 Performance tracking dashboard
-🧾 Better image-to-text accuracy
-📱 Mobile-friendly UI
+## 🔮 Future Improvements
+  🔐 User authentication system
+  💾 Save notes & quiz history
+  📊 Performance tracking dashboard
+  🧾 Better image-to-text accuracy
+  📱 Mobile-friendly UI
 
 
-👨‍💻 Author
-
-Fahad Hossain
-
-🎓 Diploma in Computer Science and Technology
-Feni Polytechnic Institute, Feni, Bangladesh
+## 👨‍💻 Author
+---
+**Fahad Hossain
 
 🎓 BSc in Computer Science (Ongoing)
-University Of The People (UoPeople), USA
+[University Of The People (UoPeople), USA](#https://www.uopeople.edu/)
+
+🎓 Diploma in Computer Science and Technology
+[Feni Polytechnic Institute, Feni, Bangladesh](#https://feni.polytech.gov.bd/)
+
 
 📧 Email: fahadhossain0503@gmail.com
 
-⭐ Support
+## ⭐ Support
 
-If you find this project helpful, please ⭐ star the repository and share it!
+**If you find this project helpful, please ⭐ star the repository and share it!
 
