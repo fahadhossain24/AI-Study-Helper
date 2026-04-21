@@ -1,4 +1,4 @@
-# AI Study Helper
+# :books: AI Study Helper
 
 An AI-powered study assistant that generate **Summary of the Contextj/Note, Voice Summarization and Respective Quizzes** from uploaded note/book images uusing **Google Gemini API** and **Streamlit**.
 
@@ -21,8 +21,6 @@ An AI-powered study assistant that generate **Summary of the Contextj/Note, Voic
 - ⚡ **Fast & Interactive UI**  
   Developed with Streamlit to provide a smooth and user-friendly experience
 
-
----
 
 ---
 
@@ -73,15 +71,16 @@ The application follows a simple pipeline to convert images into exam-ready stud
 
 ---
 
-
 ## ⚙️ Installation Guide
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/monjurBakthMazumder/AI-ML-Projects.git
-cd "AI-ML-Projects/AI-ML-Project 01 Exam Helper AI"
+git clone "https://github.com/fahadhossain24/AI-Study-Helper.git"
+cd "AI-Study-Helper"
+```
 
-2️⃣ Create virtual environment (recommended)
+### 2️⃣ Create virtual environment (recommended)
+```bash
 python -m venv venv
 
 # Linux/Mac
@@ -89,19 +88,25 @@ source venv/bin/activate
 
 # Windows
 venv\Scripts\activate
+```
 
 
-3️⃣ Install dependencies
+### 3️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
 
 🔑 Environment Setup
 
 Create a .env file in the root directory:
 GEMINI_API_KEY=your_gemini_api_key_here
+```
 
-▶️ Run the App
+### ▶️ Run the App
+```bash 
 streamlit run app.py
 ```
+
+---
 
 ## 🧪 Usage
   - Upload up to 3 images of notes
@@ -110,42 +115,54 @@ streamlit run app.py
   - Click the button
 
 ## 🎯 Output:
-  📘 Exam-ready structured notes
-  🔊 Audio version
-  ❓ MCQ quiz with answers
 
+📘 Exam-ready structured notes  
+🔊 Audio version  
+❓ MCQ quiz with answers  
+
+
+---
 
 ## 📌 Use Cases
-  📖 Exam revision from handwritten notes
-  🧠 Quick study summaries from any book page or notes
-  🎯 Self-assessment using MCQs by defining deficulties
-  🎧 Learning through audio
+
+📖 Exam revision from handwritten notes  
+🧠 Quick study summaries from any book page or notes  
+🎯 Self-assessment using MCQs by defining deficulties  
+🎧 Learning through audio  
+
+---
 
 ## ⚠️ Limitations
-  Maximum 3 images per session
-  Requires internet connection
-  Gemini responses may vary slightly
+Maximum 3 images per session  
+Requires internet connection  
+Gemini responses may vary slightly  
+
+---
 
 ## 🔮 Future Improvements
-  🔐 User authentication system
-  💾 Save notes & quiz history
-  📊 Performance tracking dashboard
-  🧾 Better image-to-text accuracy
-  📱 Mobile-friendly UI
+🔐 User authentication system  
+💾 Save notes & quiz history  
+📊 Performance tracking dashboard  
+🧾 Better image-to-text accuracy  
+📱 Mobile-friendly UI  
+
+---
 
 
 ## 👨‍💻 Author
----
-**Fahad Hossain
+**Fahad Hossain**
 
 🎓 BSc in Computer Science (Ongoing)
-[University Of The People (UoPeople), USA](#https://www.uopeople.edu/)
+[University Of The People (UoPeople), USA](https://www.uopeople.edu/)
 
 🎓 Diploma in Computer Science and Technology
-[Feni Polytechnic Institute, Feni, Bangladesh](#https://feni.polytech.gov.bd/)
+[Feni Polytechnic Institute, Feni, Bangladesh](https://feni.polytech.gov.bd/)
 
 
 📧 Email: fahadhossain0503@gmail.com
+
+
+---
 
 ## ⭐ Support
 
